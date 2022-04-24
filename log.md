@@ -1,30 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
+##### (me delete ou transforme em comentário)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link do trabalho:** [App de calculadora](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
+##### (me delete ou transforme em comentário)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link do trabalho:** [App de calculadora](http://www.example.com)
 
+### Day 2: 1 de março, 2016 (Exemplo 2)
 
-### Day 1: June 27, Monday
+**Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Aprendizados:** Comecei a programar recentemente e me dá um sentimento muito bom quando consigo resolver um algoritmo que me desafiou durante horas.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
+**Link(s) do(s) trabalho(s)**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
