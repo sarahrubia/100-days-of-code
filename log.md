@@ -1,29 +1,23 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+### Dia 1: 24 de abril de 2022
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Progresso do dia:** Estou trabalhando em um projeto de controle financeiro com JavaScript. Antes, as mercadorias ou transações cadastradas, gravadas no LocalStorage, só apareciam na página quando ela era atualizada. Agora, os dados aparecem na página sem recarregá-la.
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+Eu já tinha uma função que desenha o Extrato de Transações (tabela), mas tive que criar uma nova função para que os dados inseridos por input aparecessem na tabela sem recarregar a página. Deu trabalho! Acho que eu estava apegada demais à primeira função e tentei usá-la, mas no final não foi possível. Vida que segue! 
 
-### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
-##### (me delete ou transforme em comentário)
+**Aprendizados:** Trabalhar com localStorage, setItem, getItem, JSON.stringfy. JSON.parse, innerHTML.
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Github:** [Página do projeto](https://github.com/sarahrubia/controle-financeiro-nta)
+**Github Pages:** [Página de controle financeiro](https://sarahrubia.github.io/controle-financeiro-nta/)
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+### Dia 2: 
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Progresso do dia:** 
 
-### Day 2: 1 de março, 2016 (Exemplo 2)
+**Aprendizados:** 
 
-**Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
+**Link do trabalho:** [Nome do link](http://www.example.com)
 
-**Aprendizados:** Comecei a programar recentemente e me dá um sentimento muito bom quando consigo resolver um algoritmo que me desafiou durante horas.
-
-**Link(s) do(s) trabalho(s)**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
