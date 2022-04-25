@@ -13,11 +13,14 @@ Eu já tinha uma função que desenha o Extrato de Transações (tabela), mas ti
 **Github:** [Página do projeto](https://github.com/sarahrubia/controle-financeiro-nta)
 **Github Pages:** [Página de controle financeiro](https://sarahrubia.github.io/controle-financeiro-nta/)
 
-### Dia 2: 
+### Dia 2: 25 de abril de 2022
 
-**Progresso do dia:** 
+**Progresso do dia:** Hoje o dia foi fraco, mas tentei fazer alguma coisa pra não passar em branco. Estudei o tópico "Iterate Through an Array with a For Loop" no FreeCodeCamp. E no projeto de Controle Financeiro, tentei usar atualizar a função de limparDados() pra limpar a tela sem atualizar a página. Consegui? Ainda não kkkk
 
-**Aprendizados:** 
+**Aprendizados:** Loop FOR no JavaScript. Aplicação do método remove().
 
-**Link do trabalho:** [Nome do link](http://www.example.com)
+**Link do trabalho:** [Curso no FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+**Github:** [Página do projeto](https://github.com/sarahrubia/controle-financeiro-nta)
+**Github Pages:** [Página de controle financeiro](https://sarahrubia.github.io/controle-financeiro-nta/)
+
 
