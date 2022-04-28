@@ -46,5 +46,10 @@ Basic JavaScript 103/113
 
 **Link do trabalho:** [Curso no FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+### Dia 5: 28 de abril de 2022
 
+**Progresso do dia:** A ideia é criar um Profile Lookup, uma função que aceita dois argumentos, um nome e uma propriedade. Ela busca se o nome e a propriedade existem em um array de objetos. Comecei a fazer e consegui verificar se o nome tá presente. Falta confirmar se a propriedade existe.
 
+**Aprendizados:** Tive que relembrar como se faz a busca de elementos em um array de objetos. Também conheci o método some(), que nunca tinha visto. É incrível como eu me sinto derrotada quando não consigo fazer uma coisa. Mas ao descrever, passo a passo, o que fiz até o momento, nem foi tão ruim. Às vezes só não foi tudo que eu esperava, mas ainda é um avanço.
+
+Basic JavaScript 104/113
