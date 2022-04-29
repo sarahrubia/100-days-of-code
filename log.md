@@ -53,3 +53,13 @@ Basic JavaScript 103/113
 **Aprendizados:** Tive que relembrar como se faz a busca de elementos em um array de objetos. Também conheci o método some(), que nunca tinha visto. É incrível como eu me sinto derrotada quando não consigo fazer uma coisa. Mas ao descrever, passo a passo, o que fiz até o momento, nem foi tão ruim. Às vezes só não foi tudo que eu esperava, mas ainda é um avanço.
 
 Basic JavaScript 104/113
+
+### Dia 6: 29 de abril de 2022
+
+**Progresso do dia:** Finalizei a função Profile Lookup. 
+
+**Aprendizados:** Tive que pedir dica no FreeCodeCamp porque não tava saindo de jeito nenhum. Tava quase tudo certo, mas eu tava errando o "if" dentro do "if". A função precisava achar um valor dentro de um array de objetos e, dentro do objeto com o valor encontrado, procurar uma chave. Eu tava procurando as duas coisas de forma independente e aí saía valor de uma coisa e propriedade de outra xD
+
+Nessa bagunça toda, aprendi a usar o filter(), find() e hasOwnProperty().
+
+Basic JavaScript 104/113
