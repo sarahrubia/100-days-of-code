@@ -54,6 +54,8 @@ Basic JavaScript 103/113
 
 Basic JavaScript 104/113
 
+**Link do trabalho:** [Curso no FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
 ### Dia 6: 29 de abril de 2022
 
 **Progresso do dia:** Finalizei a função Profile Lookup. 
@@ -63,3 +65,15 @@ Basic JavaScript 104/113
 Nessa bagunça toda, aprendi a usar o filter(), find() e hasOwnProperty().
 
 Basic JavaScript 104/113
+
+**Link do trabalho:** [Curso no FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+### Dia 7: 30 abril de 2022
+
+**Progresso do dia:** Comecei a estudar o módulo de TypeScript da Newtab Academy.
+- Introdução ao TypeScript;
+
+**Aprendizados:** instalar TypeScript. Tipagem. Declaração de variáveis, tipos, funções e arrays. Funções de arrays. Funções. Condicionais. Loops.
+
+
+**Link da formação:** [Newtab Academy](https://www.newtab.academy/)
