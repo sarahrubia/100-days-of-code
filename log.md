@@ -68,12 +68,26 @@ Basic JavaScript 104/113
 
 **Link do trabalho:** [Curso no FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
-### Dia 7: 30 abril de 2022
+### Dia 7: 30 de abril de 2022
 
 **Progresso do dia:** Comecei a estudar o módulo de TypeScript da Newtab Academy.
 - Introdução ao TypeScript;
 
-**Aprendizados:** instalar TypeScript. Tipagem. Declaração de variáveis, tipos, funções e arrays. Funções de arrays. Funções. Condicionais. Loops.
+**Aprendizados:** instalar TypeScript. Tipagem. Declaração de variáveis, tipos, funções e arrays. Funções de arrays. Funções. Condicionais. Loops. Quando fui trabalhar com Classes e métodos, o node começou a dar problema. E eu cansei. 
 
 
 **Link da formação:** [Newtab Academy](https://www.newtab.academy/)
+**Github:** [Página do projeto](https://github.com/sarahrubia/introducao-typescript)
+
+### Dia 8: 01 de maio de 2022
+
+**Progresso do dia:** Resolvi o problema do node/TypeScript. Não tinha entendido que ele funciona localmente ou por projeto, então os arquivos tsconfig.json e o package.json não tinham sido criados. Estudei mais um pouco do tópico de TypeScript. Fiz uma aplicação simples de banco, com programação orientada a objetos, para consultar, adicionar e remover valores de uma conta. 
+
+
+**Aprendizados:** Vi Classes e métodos. Uso de valores privados e get. Herança e polimorfismo. Classes abstratas. Interfaces. 
+
+
+**Link da formação:** [Newtab Academy](https://www.newtab.academy/)
+**Github:** [Página do projeto](https://github.com/sarahrubia/poo-bank)
+
+
