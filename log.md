@@ -90,4 +90,13 @@ Basic JavaScript 104/113
 **Link da formação:** [Newtab Academy](https://www.newtab.academy/)
 **Github:** [Página do projeto](https://github.com/sarahrubia/poo-bank)
 
+### Dia 9: 02 de maio de 2022
 
+**Progresso do dia:** Voltei pro módulo de React.
+
+**Aprendizados:** Estrutura básica e sintaxe especial do React. Componentes, arrow function, props e relações entre componentes. Componentes funcionais e de classe. Criei dois projetinhos pra ver como funciona, mas preciso voltar no segundo e ver o que deu errado.
+
+
+**Github:** [Página do projeto My-App](https://github.com/sarahrubia/my-react-app)
+**Github:** [Página do projeto Lista-de-compras](https://github.com/sarahrubia/lista-de-compras-react)
+**Link da formação:** [Newtab Academy](https://www.newtab.academy/)
