@@ -4,7 +4,7 @@
 
 * [Regras](regras.md)
 * [Log - Round 1 (Dias 1-10) - Concluído!](r1-log.md)
-* [Log - Round 2 (Dias 11-20 - Em progresso)](r2-log.md)
+* [Log - Round 2 (Dias 11-20) - Em progresso](r2-log.md)
 * [LEIA-ME](LEIAME.md)
 * [Recursos](recursos.md)
 
