@@ -83,7 +83,6 @@ Basic JavaScript 104/113
 
 **Progresso do dia:** Resolvi o problema do node/TypeScript. Não tinha entendido que ele funciona localmente ou por projeto, então os arquivos tsconfig.json e o package.json não tinham sido criados. Estudei mais um pouco do tópico de TypeScript. Fiz uma aplicação simples de banco, com programação orientada a objetos, para consultar, adicionar e remover valores de uma conta. 
 
-
 **Aprendizados:** Vi Classes e métodos. Uso de valores privados e get. Herança e polimorfismo. Classes abstratas. Interfaces. 
 
 
@@ -100,3 +99,13 @@ Basic JavaScript 104/113
 **Github:** [Página do projeto My-App](https://github.com/sarahrubia/my-react-app)
 **Github:** [Página do projeto Lista-de-compras](https://github.com/sarahrubia/lista-de-compras-react)
 **Link da formação:** [Newtab Academy](https://www.newtab.academy/)
+
+### Dia 10: 03 de maio de 2022
+
+**Progresso do dia:** React. Voltando no que deu errado ontem: eu tentei fazer o segundo projeto dentro (ou junto) do primeiro, achando que era uma continuação, mas não era hahaha. Depois que separei tudo, ficou mais fácil de completá-lo.
+
+**Aprendizados:** Problemas com this. Uso de state em componentes. Hooks. Usando Router e requisitando API. Styled components. Contexto. Lembrando de quando eu quase desisti no dia 2, mas agora tô fechando o round 1/10. 
+
+**Github:** [Página do projeto To-do-list](https://github.com/sarahrubia/to-do-list-react)
+**Github:** [Página do projeto Styled components](https://github.com/sarahrubia/styled-components)
+**Github:** [Página do projeto Contexto](https://github.com/sarahrubia/react-context)
