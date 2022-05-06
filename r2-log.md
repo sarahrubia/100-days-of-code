@@ -19,3 +19,12 @@ Vou começar o projeto individual segurando na mão de Deus!
 Aproveitei pra ver o vídeo ["React JS - MELHOR GUIA para Iniciantes! (2020)](https://youtu.be/Ws9WVHhNq5M) e sinto que algumas coisas desanuviaram na minha mente.
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
+
+### Dia 13: 06 de maio de 2022
+
+**Progresso do dia:** Segundo dia de projeto e, depois do baque de ontem, as coisas começaram a andar. Comecei a ler a documentação do React. E não é que as coisas começaram a fazer um pouco mais de sentido?
+
+**Aprendizados:** Percebi mais as diferenças entre componentes funcionais e componentes de classe. Também vi a importância de encapsular componentes. Emperrei um pouco nos constructors e props. Mas isso fica pra amanhã.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
+
