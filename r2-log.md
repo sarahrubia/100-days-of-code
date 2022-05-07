@@ -16,7 +16,7 @@ Vou começar o projeto individual segurando na mão de Deus!
 
 **Progresso do dia:** Comecei o projeto individual. Já iniciei me sentindo sobrecarregada, sem nem saber por onde começar. Senti que sei várias coisas separadas e não sei o que fazer com tudo isso. No final, eu criei um componente e escrevi umas coisas na tela. Vamos com calma.
 
-Aproveitei pra ver o vídeo ["React JS - MELHOR GUIA para Iniciantes! (2020)](https://youtu.be/Ws9WVHhNq5M) e sinto que algumas coisas desanuviaram na minha mente.
+Aproveitei pra ver o vídeo [React JS - MELHOR GUIA para Iniciantes! (2020)](https://youtu.be/Ws9WVHhNq5M) e sinto que algumas coisas desanuviaram na minha mente.
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
 
@@ -27,4 +27,12 @@ Aproveitei pra ver o vídeo ["React JS - MELHOR GUIA para Iniciantes! (2020)](ht
 **Aprendizados:** Percebi mais as diferenças entre componentes funcionais e componentes de classe. Também vi a importância de encapsular componentes. Emperrei um pouco nos constructors e props. Mas isso fica pra amanhã.
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
+
+### Dia 14: 07 de maio de 2022
+
+**Progresso do dia:** Criei o constructor e consegui passar as props para os componentes, agora os dados que eu queria estão renderizados na tela, yay! Amanhã vou ver se consigo reaproveitar mais coisas do código, ao invés de ficar repetindo.
+
+**Aprendizados:** Acho que a coisa mais legal desse #100DaysOfCode é ver claramente a minha evolução: saindo do desespero e conseguindo fazer um pouquinho de cada vez.
+
+Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.youtube.com/playlist?list=PLxRVWC-K96b3NJO-tWQ3Z3AaZ-G8oS4hx).
 
