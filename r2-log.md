@@ -36,3 +36,10 @@ Aproveitei pra ver o vídeo [React JS - MELHOR GUIA para Iniciantes! (2020)](htt
 
 Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.youtube.com/playlist?list=PLxRVWC-K96b3NJO-tWQ3Z3AaZ-G8oS4hx).
 
+### Dia 15: 08 de maio de 2022
+
+**Progresso do dia:** E agora que eu descobri que tinha que fazer uma requisição de API no meio de tudo? hahahah ah meu pai! Mas consegui fazer a requisição de API e agora tenho uma lista de usuários e seus respectivos dados pra colocar na aplicação. 
+
+**Aprendizados:** Usei o fetch(), async, componentDidMount.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
