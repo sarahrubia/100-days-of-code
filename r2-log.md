@@ -43,3 +43,11 @@ Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.
 **Aprendizados:** Usei o fetch(), async, componentDidMount.
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
+
+### Dia 16: 09 de maio de 2022
+
+**Progresso do dia:** Consegui percorrer o array recuperado (aquele da API) com map() e renderizar na página. Acho que agora só falta estilizar (mas não tenho certeza, rs).
+
+**Aprendizados:** Fui chutando um monte de coisa e uma hora funcionou. Às vezes me incomoda um pouco que eu tô chutando pra ver o que eu consigo acertar. Mas não tô encontrando outro jeito de fazer kkkk
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
