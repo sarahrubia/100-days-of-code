@@ -51,3 +51,12 @@ Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.
 **Aprendizados:** Fui chutando um monte de coisa e uma hora funcionou. Às vezes me incomoda um pouco que eu tô chutando pra ver o que eu consigo acertar. Mas não tô encontrando outro jeito de fazer kkkk
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
+
+### Dia 17: 10 de maio de 2022
+
+**Progresso do dia:** Adicionei estilização à página do App de Pagamentos com Styled Components. Tava até com saudade de mexer com CSS. Depois de tudo que passei, nem acredito que vi esse projeto tomando forma e que consegui terminar a primeira parte a tempo.
+
+**Aprendizados:** Apliquei o styled components e aprendi a publicar um projeto de React no Github Pages.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)

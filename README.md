@@ -5,15 +5,17 @@
 * [Regras](regras.md)
 * [Log - Round 1 (Dias 1-10) - Concluído!](r1-log.md)
 * [Log - Round 2 (Dias 11-20) - Em progresso](r2-log.md)
+* [Log - Round 3 (Dias 21-30) - Não iniciado](r3-log.md)
+* [Log - Round 4 (Dias 31-40) - Não iniciado](r4-log.md)
+* [Log - Round 5 (Dias 41-50) - Não iniciado](r5-log.md)
+* [Log - Round 6 (Dias 51-60) - Não iniciado](r6-log.md)
+* [Log - Round 7 (Dias 61-70) - Não iniciado](r7-log.md)
+* [Log - Round 8 (Dias 71-80) - Não iniciado](r8-log.md)
+* [Log - Round 9 (Dias 81-90) - Não iniciado](r9-log.md)
+* [Log - Round 10 (Dias 91-100) - Não iniciado](r10-log.md)
 * [LEIA-ME](LEIAME.md)
 * [Recursos](recursos.md)
 
-## Traduções
-
-[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
-
-
-Caso você queira ajudar na tradução do conteúdo/regras para seu idioma, mande um pull request (ou mande uma DM no Twitter para @ka11away), adicionando uma subpasta na pasta chamada 'intl' com os arquivos traduzidos.
 
 ## Se você decidir participar:
 
