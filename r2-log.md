@@ -60,3 +60,14 @@ Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 18: 11 de maio de 2022
+
+**Progresso do dia:** Achou que eu não ia programar hoje? Fui adicionar um modal na aplicação, só que eu fiz um componente de classe e, aparentemente, o modal só funciona em componentes funcionais /facepalm. 
+
+**Aprendizados:** Fiz as alterações pra classe virar uma função e consegui adicionar o modal. Nesse interím, tive que mudar a requisição de API, porque componentDidMount() só funciona com classe, então aprendi a usar o useEffect() e fiz o fetch com o axios. Depois de fazer um modal com useState, vi que tem como usar o ReactModal, mas ainda não testei.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+
