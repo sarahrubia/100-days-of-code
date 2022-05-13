@@ -71,3 +71,12 @@ Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
 
+### Dia 19: 13 de maio de 2022
+
+**Progresso do dia:** Oops, pulei um dia. Comecei a trabalhar com o ReactModal. Consegui fazer ele aparecer na tela, agora tenho que aprender como fazer ele fechar hahaha. Acho que o fato de estar mexendo com a lógica anterior e tentando adicionar o ReactModal no meio pode estar me atrapalhando. Mas só de ter um componente criado especificamente pra isso ajudou muito. 
+
+**Aprendizados:** ReactModal isOpen{}
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
