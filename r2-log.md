@@ -80,3 +80,11 @@ Os vídeos dessa playlist me ajudaram muito: [React Quick Tutorial](https://www.
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
+### Dia 20: 17 de maio de 2022
+
+**Progresso do dia:** Perdi a sequência de dias, mas não abandonei o desafio. Voltei até com a mente mais fresca. Consegui criar o modal do jeitinho que eu queria, usando react-modal e styled-components pra estilização. 
+
+**Aprendizados:** Aprendi a usar o react-modal e seus métodos isOpen, onRequestClose. Não sabia que precisaria, mas usei o useState. E acho que a função dele tá ficando mais clara pra mim.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
