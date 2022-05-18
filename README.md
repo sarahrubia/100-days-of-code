@@ -4,8 +4,8 @@
 
 * [Regras](regras.md)
 * [Log - Round 1 (Dias 1-10) - Concluído!](r1-log.md)
-* [Log - Round 2 (Dias 11-20) - Em progresso](r2-log.md)
-* [Log - Round 3 (Dias 21-30) - Não iniciado](r3-log.md)
+* [Log - Round 2 (Dias 11-20) - Concluído!](r2-log.md)
+* [Log - Round 3 (Dias 21-30) - Em progresso](r3-log.md)
 * [Log - Round 4 (Dias 31-40) - Não iniciado](r4-log.md)
 * [Log - Round 5 (Dias 41-50) - Não iniciado](r5-log.md)
 * [Log - Round 6 (Dias 51-60) - Não iniciado](r6-log.md)
