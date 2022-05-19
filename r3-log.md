@@ -10,3 +10,12 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 22: 19 de maio de 2022
+
+**Progresso do dia:** Hoje eu só quebrei a cabeça. Nossa, fiquei um tempão pensando como criar um modal dentro de um modal. Depois pensei que não deve ser um modal dentro de um modal, mas uma atualização do modal. Como que faz isso? Vi várias coisas e não cheguei a uma conclusão. Aí eu fui assistir uns plantões de dúvidas do curso, pra ver se alguém tava tendo o mesmo problema que eu. E, sim, tinha gente que nem sabia por onde começar, como eu. Resolveram a dúvida da pessoa? Não hahaha. 
+
+**Aprendizados:** Depois eu achei um [vídeo](https://www.youtube.com/watch?v=x9UEDRbLhJE) que nem é sobre modal, mas sobre usar o método POST, algo que eu também preciso fazer. E algumas coisas começaram a fazer sentido. Foi um dia de reflexões, muito mais do que programações.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
