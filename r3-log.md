@@ -19,3 +19,12 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 23: 20 de maio de 2022
+
+**Progresso do dia:** Fiz um request API com axios e o método POST, mas não consegui integrar isso com a interface do modal. Tô com dificuldade. E aí tem um array de objetos com dados de cartões de crédito que eu preciso adicionar em um elemento Select dentro do formulário no modal, que depois vai fazer essa requisição aí que eu não integrei a nada. Será que eu tô entendendo direito?
+
+**Aprendizados:** Requisição API do método POST com axios.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
