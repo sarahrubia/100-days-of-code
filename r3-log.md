@@ -41,3 +41,12 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 24: 25 de maio de 2022
+
+**Progresso do dia:** Um colega me explicou como popular o <select> com <option> usando map() no React, basicamente era fazer o map com o array de objetos dentro do return, retornando as tags <option> com o conteúdo mapeado. Fiquei com raiva porque era algo tão bobo e eu tava quebrando a cabeça, dificultando tudo como sempre hahaha. Agora eu preciso pegar os dados do usuário, o valor do input e os dados do cartão selecionado pra enviar pelo método POST. Parece que tem que usar state/setState, mas eu ainda não tô amiga dessas coisas. Consegui fazer o método POST num componente de classe, mas não sei como fazer num componente funcional.
+
+**Aprendizados:** Popular select com options usando map no retorno da função.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
