@@ -59,3 +59,10 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 26: 27 de maio de 2022
+
+**Progresso do dia:** Mais um dia, a mesma questão dos dias anteriores. Algo de errado não está certo e eu ainda não sei o que é. Tô bem frustrada, mas acho que faz parte. 
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
