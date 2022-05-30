@@ -66,3 +66,12 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 27: 30 de maio de 2022
+
+**Progresso do dia:** Finalmente saiu! Acho que eu tava definindo o state e o setState certinho, mas, por algum motivo, eu tinha que chamar o state, tipo: setState({...state, outros objetos}). Eu não entendi muito bem porque, mas depois disso funcionou. A partir daí eu consegui criar o objeto e enviar pelo método POST pra verificar se a transação foi aprovada ou não. Agora tô com uns probleminhas de formatação na máscara de valor... Ai, ai... Bom demais programar.
+
+**Aprendizados:** Estou entendendo melhor o state e o setState.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
