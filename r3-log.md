@@ -75,3 +75,12 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 28: 31 de maio de 2022
+
+**Progresso do dia:** Então, a máscara de valor monetário... Eu tentei usar um codigozinho em JavaScript e a formatação até funcionou, só que usando o evento onKeyDown, o backspace não pega, e no onKeyUp o backspace pega, mas fica repetindo as teclas. E, pelo que eu entendi, o onkeypress não funciona no React. Ok. Encontrei um componente React que faz toda a formatação direitinho (react-intl-currency-input), fiz a importação dele e tá pegando. Só que, na hora de fazer a requisição pelo método POST, o valor vai formatado errado. Mas acho que eu queria mesmo era pegar o valor numérico do input e não a string. Tentei converter de algumas formas, mas não pegou. 
+
+**Aprendizados:** Importar componentes prontos, como o react-intl-currency-input, e utilizá-lo na aplicação.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
