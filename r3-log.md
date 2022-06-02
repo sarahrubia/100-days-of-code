@@ -51,6 +51,7 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
+
 ### Dia 25: 26 de maio de 2022
 
 **Progresso do dia:** Acho que eu passo mais tempo olhando pra esse código do que fazendo, de fato, alguma coisa hahaha. Levei algumas dúvidas pro plantão de dúvidas da Newtab Academy com relação ao uso de state/setState, e como colocar mais de um onChange em um componente, que eu não sabia se era possível. Na minha cabeça, o React parece menos flexível do que ele é. Ainda não consegui me acostumar com essa fera. Mas vamo que vamo!
@@ -60,12 +61,14 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
+
 ### Dia 26: 27 de maio de 2022
 
 **Progresso do dia:** Mais um dia, a mesma questão dos dias anteriores. Algo de errado não está certo e eu ainda não sei o que é. Tô bem frustrada, mas acho que faz parte. 
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
 
 ### Dia 27: 30 de maio de 2022
 
@@ -84,6 +87,7 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
 
 ### Dia 29: 01 de junho de 2022
 
