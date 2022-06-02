@@ -31,7 +31,7 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 ### Dia 23: 23 de maio de 2022
 
-**Progresso do dia:** Eu acordei de madrugada pensando "e se eu fizesse um loop for desse jeito?", anotei e fiz os testes hoje. Criei uma função para adicionar os cartões (cards) como <option> no <select>. Mas eu não consigo adicioná-lo na página/no modal. Quando tento, acho que a página ainda não renderizou e fica dando selectCard is null. Quando a página já está renderizada e eu atualizo o navegador com o modal aberto, os cartões aparecem no <select> (ainda aparecem errado porque tá renderizando por usuário, aí aparece 33 vezes kkkk mas uma coisa de cada vez). Fiquei com a questão: como faço para os cartões aparecerem no momento que a página renderiza? Em que lugar eu adiciono essa função e como a chamo?  
+**Progresso do dia:** Eu acordei de madrugada pensando "e se eu fizesse um loop for desse jeito?", anotei e fiz os testes hoje. Criei uma função para adicionar os cartões (cards) como Option no Select. Mas eu não consigo adicioná-lo na página/no modal. Quando tento, acho que a página ainda não renderizou e fica dando selectCard is null. Quando a página já está renderizada e eu atualizo o navegador com o modal aberto, os cartões aparecem no Select (ainda aparecem errado porque tá renderizando por usuário, aí aparece 33 vezes kkkk mas uma coisa de cada vez). Fiquei com a questão: como faço para os cartões aparecerem no momento que a página renderiza? Em que lugar eu adiciono essa função e como a chamo?
 
 Comecei a assistir o curso [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3), senti que ainda me falta entender porque algumas coisas acontecem.
 
@@ -44,7 +44,7 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 ### Dia 24: 25 de maio de 2022
 
-**Progresso do dia:** Um colega me explicou como popular o <select> com <option> usando map() no React, basicamente era fazer o map com o array de objetos dentro do return, retornando as tags <option> com o conteúdo mapeado. Fiquei com raiva porque era algo tão bobo e eu tava quebrando a cabeça, dificultando tudo como sempre hahaha. Agora eu preciso pegar os dados do usuário, o valor do input e os dados do cartão selecionado pra enviar pelo método POST. Parece que tem que usar state/setState, mas eu ainda não tô amiga dessas coisas. Consegui fazer o método POST num componente de classe, mas não sei como fazer num componente funcional.
+**Progresso do dia:** Um colega me explicou como popular o Select com Option usando map() no React, basicamente era fazer o map com o array de objetos dentro do return, retornando as tags Option com o conteúdo mapeado. Fiquei com raiva porque era algo tão bobo e eu tava quebrando a cabeça, dificultando tudo como sempre hahaha. Agora eu preciso pegar os dados do usuário, o valor do input e os dados do cartão selecionado pra enviar pelo método POST. Parece que tem que usar state/setState, mas eu ainda não tô amiga dessas coisas. Consegui fazer o método POST num componente de classe, mas não sei como fazer num componente funcional.
 
 **Aprendizados:** Popular select com options usando map no retorno da função.
 
@@ -54,7 +54,7 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 ### Dia 25: 26 de maio de 2022
 
-**Progresso do dia:** Acho que eu passo mais tempo olhando pra esse código do que fazendo, de fato, alguma coisa hahaha. Levei algumas dúvidas pro plantão de dúvidas da Newtab Academy com relação ao uso de state/setState, e como colocar mais de um onChange em um componente, que eu não sabia se era possível. Na minha cabeça, o React parece menos flexível do que ele é. Ainda não consegui me acostumar com essa fera. Mas vamo que vamo!<br>
+**Progresso do dia:** Acho que eu passo mais tempo olhando pra esse código do que fazendo, de fato, alguma coisa hahaha. Levei algumas dúvidas pro plantão de dúvidas da Newtab Academy com relação ao uso de state/setState, e como colocar mais de um onChange em um componente, que eu não sabia se era possível. Na minha cabeça, o React parece menos flexível do que ele é. Ainda não consegui me acostumar com essa fera. Mas vamo que vamo!
 
 **Aprendizados:** Eu descobri que o onChange de um componente pode receber várias funções. E que um componente pode receber dados de vários lugares. Eu acabo me prendendo ao que está dentro do componente.
 
@@ -62,9 +62,9 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
 
-### Dia 26: 27 de maio de 2022<br>
+### Dia 26: 27 de maio de 2022
 
-**Progresso do dia:** Mais um dia, a mesma questão dos dias anteriores. Algo de errado não está certo e eu ainda não sei o que é. Tô bem frustrada, mas acho que faz parte. <br>
+**Progresso do dia:** Mais um dia, a mesma questão dos dias anteriores. Algo de errado não está certo e eu ainda não sei o que é. Tô bem frustrada, mas acho que faz parte.
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
