@@ -49,29 +49,28 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 **Aprendizados:** Popular select com options usando map no retorno da função.
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
-**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)<br>
 
+### Dia 25: 26 de maio de 2022<br>
 
-### Dia 25: 26 de maio de 2022
+**Progresso do dia:** Acho que eu passo mais tempo olhando pra esse código do que fazendo, de fato, alguma coisa hahaha. Levei algumas dúvidas pro plantão de dúvidas da Newtab Academy com relação ao uso de state/setState, e como colocar mais de um onChange em um componente, que eu não sabia se era possível. Na minha cabeça, o React parece menos flexível do que ele é. Ainda não consegui me acostumar com essa fera. Mas vamo que vamo!<br>
 
-**Progresso do dia:** Acho que eu passo mais tempo olhando pra esse código do que fazendo, de fato, alguma coisa hahaha. Levei algumas dúvidas pro plantão de dúvidas da Newtab Academy com relação ao uso de state/setState, e como colocar mais de um onChange em um componente, que eu não sabia se era possível. Na minha cabeça, o React parece menos flexível do que ele é. Ainda não consegui me acostumar com essa fera. Mas vamo que vamo!
-
-**Aprendizados:** Eu descobri que o onChange de um componente pode receber várias funções. E que um componente pode receber dados de vários lugares. Eu acabo me prendendo ao que está dentro do componente.
-
-**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
-**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
-
-
-### Dia 26: 27 de maio de 2022
-
-**Progresso do dia:** Mais um dia, a mesma questão dos dias anteriores. Algo de errado não está certo e eu ainda não sei o que é. Tô bem frustrada, mas acho que faz parte. 
+**Aprendizados:** Eu descobri que o onChange de um componente pode receber várias funções. E que um componente pode receber dados de vários lugares. Eu acabo me prendendo ao que está dentro do componente.<br>
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+<br>
 
+### Dia 26: 27 de maio de 2022<br>
+
+**Progresso do dia:** Mais um dia, a mesma questão dos dias anteriores. Algo de errado não está certo e eu ainda não sei o que é. Tô bem frustrada, mas acho que faz parte. <br>
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+<br>
 
 ### Dia 27: 30 de maio de 2022
-
+<br>
 **Progresso do dia:** Finalmente saiu! Acho que eu tava definindo o state e o setState certinho, mas, por algum motivo, eu tinha que chamar o state, tipo: setState({...state, outros objetos}). Eu não entendi muito bem porque, mas depois disso funcionou. A partir daí eu consegui criar o objeto e enviar pelo método POST pra verificar se a transação foi aprovada ou não. Agora tô com uns probleminhas de formatação na máscara de valor... Ai, ai... Bom demais programar.
 
 **Aprendizados:** Estou entendendo melhor o state e o setState.
