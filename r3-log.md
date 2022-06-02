@@ -50,7 +50,7 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
-<br>
+
 
 ### Dia 25: 26 de maio de 2022
 
@@ -60,7 +60,7 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
-<br>
+
 
 ### Dia 26: 27 de maio de 2022<br>
 
@@ -68,7 +68,6 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
-<br>
 
 ### Dia 27: 30 de maio de 2022
 
@@ -79,7 +78,6 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
-<br>
 
 ### Dia 28: 31 de maio de 2022
 
@@ -90,7 +88,6 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
 
-<br>
 ### Dia 29: 01 de junho de 2022
 
 **Progresso do dia:** Removi o componente de valor monetário e substituí por um código em JavaScript puro pra fazer a formatação da moeda. Ao invés de usar os "onKey", sugeriram que eu usasse o onChange, depois disso tudo funcionou perfeitamente. Como agora eu tinha mais liberdade pra mexer com os valores inseridos, formatados ou não, criei um setState para o valor em string e outro em float, assim, consegui mostrar no input o valor formatado e, ao fazer a requisição POST, consegui mandar o valor numérico.
