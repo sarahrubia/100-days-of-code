@@ -96,3 +96,10 @@ Ainda tô pensando no React com a cabeça de JavaScript xD
 
 **Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
 **Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
+
+### Dia 30: 02 de junho de 2022
+
+**Progresso do dia:** Participei de mais um plantão de dúvidas, queria saber como abrir um modal, dependendo do status da transação na requisição POST. Só que, pra isso, eu precisava consertar o primeiro modal que eu tinha feito. Me explicaram rapidinho como organizar tudo, mas agora o primeiro modal não tá abrindo mais e eu não sei porquê AAAAAAA. Tentei de tudo um pouco, mas acho que vou precisar esperar a gravação pra entender que passo eu tô pulando.
+
+**Github:** [Repositório](https://github.com/sarahrubia/app-pagamentos)
+**Github:** [Github Pages](https://sarahrubia.github.io/app-pagamentos/)
