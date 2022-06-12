@@ -20,5 +20,12 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 **Github:** [Página do projeto](https://github.com/sarahrubia/app-pagamentos)
 **Github Pages:** [Página de controle financeiro](https://sarahrubia.github.io/app-pagamentos/)
 
+### Dia 33: 12 de junho de 2022
+
+**Progresso do dia:** comecei a fazer alguns projetos complementares propostos pela NewTab. O primeiro projeto consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter. Até o momento, estruturei o HTML e comecei a estilizar com CSS.
+
+**Aprendizados:** tô relembrando um monte de coisa que já tinha esquecido por não praticar com frequência.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
 
 
