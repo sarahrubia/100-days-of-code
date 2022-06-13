@@ -28,4 +28,12 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
 
+### Dia 34: 13 de junho de 2022
+
+**Progresso do dia:** Mexi mais um pouco no CSS da landing page. Tive dificuldade com mudar a forma do header e footer, que precisam parecer com um polígono. No final, depois de tentar muito com o transform:rotate(), que sempre deixava o scroll aparecendo na tela, consegui com o clip-path. Agora, acho, que só falta centralizar a uma seção e as divs dentro delas.
+
+**Aprendizados:** aprendi a usar o transform:rotate() e o clip-path no CSS.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
+
 
