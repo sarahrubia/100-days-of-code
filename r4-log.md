@@ -36,4 +36,9 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
 
+### Dia 35: 14 de junho de 2022
+
+**Progresso do dia:** Finalizei o CSS da visualização desktop da página. Adicionei a visualização mobile com media queries. Estou tendo problemas com o clip-path, porque quando ele adiciona o polígono, partes da página ficam sobrepostas. Preciso trabalhar nisso agora pra conseguir finalizar o mobile e partir para o consumo de API.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
 
