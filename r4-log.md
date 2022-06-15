@@ -42,3 +42,11 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
 
+### Dia 35: 15 de junho de 2022
+
+**Progresso do dia:** Como o clip-path tava sobrepondo o menu de navegação, eu o substituí pelo transform: skew(). Bati muita cabeça pra acertar o ângulo, mas deu certo. Agora o menu de navegação tá aparecendo por cima do background em polígono. Passei pelo transform rotate(), clip-path e transform skew() pra modelar o header, fui trocando um por outro, até achar o que funcionasse melhor.
+
+**Aprendizados:** aprendi sobre o transform: skew(). E como é difícil manter um side project quando se tem tanta coisa pra fazer. Hoje foi na garra pra continuar mexendo nesse projeto.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
+
