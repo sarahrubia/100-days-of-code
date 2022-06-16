@@ -50,3 +50,13 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/newsletter-landing-page)
 
+### Dia 36: 16 de junho de 2022
+
+**Progresso do dia:** 
+
+**Aprendizados:** 
+
+inserir imagens.
+
+**Github:** [Página do projeto](https://github.com/sarahrubia/Projeto-hashtagFinder)
+
