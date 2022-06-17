@@ -52,11 +52,10 @@ O log do meu desafio #100DaysOfCode. Iniciado em [24 de abril, domingo, 2022].
 
 ### Dia 36: 16 de junho de 2022
 
-**Progresso do dia:** 
+**Progresso do dia:** Comecei, efetivamente, o projeto React em equipe. Trabalhei com: a criação de branch para desenvolvimento da página Login; instalação das dependências para o projeto em React; criação de header, botão home e formulário; estilização da página com CSS; início da versão responsiva para desktop.
 
-**Aprendizados:** 
-
-inserir imagens.
+![Desktop view](https://github.com/sarahrubia/100-days-of-code/blob/master/imgs/tela_login_desktop.png)
+![Mobile view](https://github.com/sarahrubia/100-days-of-code/blob/master/imgs/tela_login_mobile.png)
 
 **Github:** [Página do projeto](https://github.com/sarahrubia/Projeto-hashtagFinder)
 
